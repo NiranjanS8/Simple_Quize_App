@@ -38,7 +38,8 @@ Simple_Quize_App/
 │ │ └── resources/ # Configuration and static files
 │ │ ├── application.properties # App configuration (DB, port, etc.)
 │ │ └── static/ # Static resources (if any)
-│ │
+│
 ├── pom.xml # Maven dependencies and build configuration
 ├── mvnw # Maven wrapper (Linux/Mac)
 └── mvnw.cmd # Maven wrapper (Windows)
+
